@@ -21,10 +21,6 @@
         "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
     },
     {
-        "name": "C Language",
-        "icon": "https://img.icons8.com/color/48/000000/c.png"
-    },
-    {
         "name": "C++",
         "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
     },
@@ -66,6 +62,10 @@
     },
     {
         "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },   
+    {
+        "name": "REST API",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     }   
 ]
