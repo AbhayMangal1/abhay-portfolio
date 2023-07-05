@@ -66,6 +66,19 @@
     },   
     {
         "name": "REST API",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    }   
+        "icon": "https://img.icons8.com/nolan/64/api.png"
+    },  
+    {
+        "name": "MVC Architecture",
+        "icon": "https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/external-sketch-construction-wanicon-lineal-color-wanicon.png"
+    } , 
+    {
+        "name": "AJAX",
+        "icon": "https://img.icons8.com/color/48/apple-app-store--v3.png"
+    } ,  
+    {
+        "name": "Postman",
+        "icon": "https://img.icons8.com/dusk/64/postman-api.png"
+    }  
+      
 ]
