@@ -20,7 +20,7 @@ $(document).ready(function(){
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Projects | Portfolio Saurav Mukherjee";
+        document.title = "Projects | Portfolio Abhay Mangal";
         $("#favicon").attr("href","/assests/images/favicon.png");
     }
     else {

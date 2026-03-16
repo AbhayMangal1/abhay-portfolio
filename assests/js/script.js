@@ -41,7 +41,7 @@ $(document).ready(function(){
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Portfolio | Saurav Mukherjee";
+        document.title = "Portfolio | Abhay Mangal";
         $("#favicon").attr("href","assests/images/favicon.png");
     }
     else {
@@ -53,7 +53,7 @@ function(){
 
 // <!-- typed js effect starts -->
     var typed = new Typed(".typing-text", {
-        strings: ["Full-Stack development", "Machine Learning", "Cloud Computing", "Tech Communities"],
+        strings: ["Java Development","Spring Boot Microservices","Event-Driven Architecture","Microservices Architecture"],
         loop: true,
         typeSpeed: 50,
 		backSpeed: 25,
