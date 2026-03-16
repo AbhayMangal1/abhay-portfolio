@@ -53,7 +53,7 @@ function(){
 
 // <!-- typed js effect starts -->
     var typed = new Typed(".typing-text", {
-        strings: ["Java Development","Spring Boot Microservices","Event-Driven Architecture","Microservices Architecture"],
+        strings: ["Java Development","Microservices Architecture","System Design","SpringBoot Framework"],
         loop: true,
         typeSpeed: 50,
 		backSpeed: 25,
