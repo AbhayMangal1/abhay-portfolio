@@ -396,7 +396,7 @@ header .navbar ul li a:hover{
   color:#424fc9;
 }
 .resumebtn{
-  margin-top: 6rem;
+  margin-top: 0rem;
 }
 .resumebtn .btn {
   padding: 1.7rem 3rem;
@@ -1362,5 +1362,13 @@ z-index:0;
 .skills-grid{
 position:relative;
 z-index:1;
+}
+
+.gitlab {
+  background: #FC6D26; /* GitLab official color */
+}
+
+.gitlab:hover {
+  background: #E24329;
 }
 /* scroll top ends */
